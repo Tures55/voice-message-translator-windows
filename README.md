@@ -31,6 +31,8 @@ The installed program is called **Tures55 Translator**. It is free; donors recei
 Il clic scarica subito `Tures55-Translator-Setup.exe`, sempre l'ultima versione: aprilo e segui i passi. Poi il programma si aggiorna da solo.
 One click downloads `Tures55-Translator-Setup.exe`, always the latest version: open it and follow the steps. The program then updates itself.
 
+### 🔊 Ascolta gli esempi / Hear the examples: [🇮🇹 Sito](https://tures55.github.io/translator/) · [🇬🇧 Website](https://tures55.github.io/translator/en/)
+
 ### 📖 Guida / Guide: [🇮🇹 Italiano](GUIDA.md) · [🇬🇧 English](GUIDE.md)
 
 <sub>Tutte le versioni / All versions: [Releases](https://github.com/Tures55/voice-message-translator-windows/releases) · Novità in arrivo / Coming next: [NOVITA_IN_ARRIVO.md](NOVITA_IN_ARRIVO.md)</sub>
