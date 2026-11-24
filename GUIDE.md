@@ -9,6 +9,7 @@
 - [Answering](#answering)
 - [The Ctrl+Alt+T shortcut](#the-ctrlaltt-shortcut)
 - [Audio or Text only](#audio-or-text-only)
+- [The languages of the messages](#the-languages-of-the-messages)
 - [The voices](#the-voices)
 - [Checking the translation](#checking-the-translation)
 - [WhatsApp by itself](#whatsapp-by-itself)
@@ -28,7 +29,7 @@
 
 ## What it does
 
-It listens to a voice message or reads a text message, works out whether it is Italian or English, translates it into the other language and, if you like, also says it out loud. It works with WhatsApp, Telegram, email and any program you can copy from.
+It listens to a voice message or reads a text message, works out which of the two chosen languages it is in, translates it into the other one and, in ten languages, also says it out loud if you like. It works with WhatsApp, Telegram, email and any program you can copy from.
 
 Everything happens on your PC: no message is sent over the internet.
 
@@ -36,7 +37,9 @@ Everything happens on your PC: no message is sent over the internet.
 
 ## The first time
 
-Choose the quality (the program tells you which one suits your PC), whether you also want audio, and the folder for the models. Then press Download: if you stop it or the internet drops, it resumes from where it was.
+WARNING about space: the program downloads its models once. Text only: 3.2 GB (light) or 7.2 GB (best). Text and voice: 5.2 GB (light) or 9.9 GB (best).
+
+Choose between Text only and Text and voice, then the quality (the program tells you which suits your PC best) and the folder for the models. Then press Download: if you stop it or the connection drops, it resumes where it was.
 
 On the first opening and after an update the engines take a little longer to get ready: you can already send messages, they wait in the queue.
 
@@ -77,6 +80,14 @@ If another program already uses these keys, the translator takes others: you see
 The yellow switch at the top decides what you get for new messages, and it is remembered.
 
 Text only is faster and frees the graphics card. If you then need the voice of one message, press Make the audio.
+
+## The languages of the messages
+
+At the top you choose your language and the other person's: they are remembered.
+
+The translation can also be spoken in ten languages: Italian, English, Spanish, French, German, Portuguese, Russian, Chinese, Japanese and Korean. In the other languages it is text only: voice messages are still listened to and translated, but the answer is a text to copy. With one language that has a voice and one that does not, you get the voice only when translating into the first one.
+
+If a short message is taken for the other language, press Other way.
 
 ## The voices
 
@@ -119,7 +130,7 @@ After 10 minutes without work the engines switch off and free the memory; they s
 
 Ctrl and + makes it bigger, Ctrl and - smaller, Ctrl and 0 goes back to normal. The size is remembered.
 
-The language of the program (Italian or English) is changed from the Translator menu, Language.
+The language of the program is changed from the Translator menu, Language.
 
 ## Your messages
 

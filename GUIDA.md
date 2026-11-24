@@ -9,6 +9,7 @@
 - [Rispondere](#rispondere)
 - [La scorciatoia Ctrl+Alt+T](#la-scorciatoia-ctrlaltt)
 - [Audio oppure Solo testo](#audio-oppure-solo-testo)
+- [Le lingue dei messaggi](#le-lingue-dei-messaggi)
 - [Le voci](#le-voci)
 - [Controllare la traduzione](#controllare-la-traduzione)
 - [WhatsApp in automatico](#whatsapp-in-automatico)
@@ -28,7 +29,7 @@
 
 ## Cosa fa
 
-Ascolta un messaggio vocale o legge un messaggio scritto, capisce da solo se è in italiano o in inglese, lo traduce nell'altra lingua e, se vuoi, te lo dice anche a voce. Va bene per WhatsApp, Telegram, le email e qualsiasi programma da cui si può copiare.
+Ascolta un messaggio vocale o legge un messaggio scritto, capisce da solo in quale delle due lingue scelte è, lo traduce nell'altra e, in dieci lingue, se vuoi te lo dice anche a voce. Va bene per WhatsApp, Telegram, le email e qualsiasi programma da cui si può copiare.
 
 Tutto avviene sul tuo PC: nessun messaggio viene mandato su internet.
 
@@ -36,7 +37,9 @@ Tutto avviene sul tuo PC: nessun messaggio viene mandato su internet.
 
 ## La prima volta
 
-Scegli la qualità (il programma ti dice quale va meglio per il tuo PC), se vuoi anche l'audio, e la cartella dove mettere i modelli. Poi premi Scarica: se lo fermi o cade internet, riprende da dove era.
+ATTENZIONE allo spazio: il programma scarica i suoi modelli una volta sola. Solo testo: 3,2 GB (Leggera) o 7,2 GB (Migliore). Testo e voce: 5,2 GB (Leggera) o 9,9 GB (Migliore).
+
+Scegli tra Solo testo e Testo e voce, poi la qualità (il programma ti dice quale va meglio per il tuo PC) e la cartella dove mettere i modelli. Poi premi Scarica: se lo fermi o cade internet, riprende da dove era.
 
 Alla prima apertura e dopo un aggiornamento i motori ci mettono un po' di più a prepararsi: puoi già mandare i messaggi, aspettano in coda.
 
@@ -77,6 +80,14 @@ Se un altro programma usa già questi tasti, il traduttore ne prende altri: li v
 L'interruttore giallo in alto decide cosa avere per i messaggi nuovi, e viene ricordato.
 
 Solo testo è più veloce e libera la scheda video. Se poi ti serve la voce di un messaggio, premi Crea l'audio.
+
+## Le lingue dei messaggi
+
+In alto scegli la tua lingua e quella dell'altro: vengono ricordate.
+
+La traduzione può essere anche a voce in dieci lingue: italiano, inglese, spagnolo, francese, tedesco, portoghese, russo, cinese, giapponese e coreano. Nelle altre lingue è solo scritta: i vocali si ascoltano e si traducono lo stesso, ma la risposta è un testo da copiare. Con una lingua che ha la voce e una che non ce l'ha, la voce c'è solo quando si traduce verso la prima.
+
+Se i messaggi corti vengono presi per l'altra lingua, premi Altro verso.
 
 ## Le voci
 
@@ -119,7 +130,7 @@ Dopo 10 minuti senza lavoro i motori si spengono e liberano la memoria; si riacc
 
 Ctrl e + ingrandisce, Ctrl e - rimpicciolisce, Ctrl e 0 torna normale. La misura viene ricordata.
 
-La lingua del programma (italiano o inglese) si cambia dal menu Traduttore, Lingua.
+La lingua delle scritte del programma si cambia dal menu Traduttore, Lingua.
 
 ## I tuoi messaggi
 
