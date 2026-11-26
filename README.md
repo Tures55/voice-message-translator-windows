@@ -63,7 +63,7 @@ Basta un clic sulla stella ⭐ in alto a destra di questa pagina: aiuta altre pe
 - **Rilettura di controllo**: la traduzione viene riletta nella tua lingua, così vedi se il senso è giusto.
 - **Solo testo** o anche audio, come preferisci.
 - **Privato**: i messaggi non escono dal PC. Internet serve solo per scaricare i modelli e gli aggiornamenti.
-- Scritte grandi e contrasto alto, ingrandibili. Interfaccia e guida in italiano, inglese, spagnolo, francese, tedesco e portoghese.
+- Scritte grandi e contrasto alto, ingrandibili. Interfaccia e guida in italiano, inglese, spagnolo, francese, tedesco, portoghese e hindi: il programma si apre nella lingua di Windows.
 
 Usa solo la tua voce o quella di chi ti ha dato il permesso. Le traduzioni sono automatiche e possono contenere errori. Tures55 Translator non è fatto da WhatsApp o Meta, né è collegato a loro.
 
@@ -83,7 +83,7 @@ Se ti è utile puoi sostenerlo: https://buymeacoffee.com/tures1955
 - **Check reading**: the translation is read back in your language, so you can see whether the meaning is right.
 - **Text only** or audio too, as you prefer.
 - **Private**: messages never leave the PC. Internet is only needed to download the models and the updates.
-- Big text and high contrast, can be enlarged. Interface and guide in Italian, English, Spanish, French, German and Portuguese.
+- Big text and high contrast, can be enlarged. Interface and guide in Italian, English, Spanish, French, German, Portuguese and Hindi: the program opens in the Windows language.
 
 Only use your own voice or that of someone who gave you permission. Translations are automatic and may contain mistakes. Tures55 Translator is not made by, or connected with, WhatsApp or Meta.
 
