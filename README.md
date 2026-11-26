@@ -8,9 +8,9 @@ The installed program is called **Tures55 Translator**. It is free; donors recei
 
 [![Download totali / Total downloads](https://img.shields.io/github/downloads/Tures55/voice-message-translator-windows/Tures55-Translator-Setup.exe?label=download%20totali&displayAssetName=false&style=for-the-badge&color=brightgreen)](https://github.com/Tures55/voice-message-translator-windows/releases/latest)
 
-# ⚠️ ATTENZIONE: SERVONO DA 3 A 10 GB DI SPAZIO
+# ⚠️ ATTENZIONE: SERVONO DA 3 A 11 GB DI SPAZIO
 
-# ⚠️ WARNING: 3 TO 10 GB OF SPACE NEEDED
+# ⚠️ WARNING: 3 TO 11 GB OF SPACE NEEDED
 
 **Il programma è piccolo, ma alla prima apertura scarica sul tuo PC i modelli con cui lavora. Scegli tu, prima di scaricare:**
 **The program is small, but on first start it downloads the models it works with. You choose, before downloading:**
@@ -18,7 +18,7 @@ The installed program is called **Tures55 Translator**. It is free; donors recei
 | | 📝 SOLO TESTO / TEXT ONLY | 🔊 TESTO E VOCE / TEXT AND VOICE |
 |---|---|---|
 | **Leggera / Light** | **3,2 GB** | **5,2 GB** |
-| **Migliore / Best** | **7,2 GB** | **9,9 GB** |
+| **Migliore / Best** | **7,7 GB** | **10,4 GB** |
 | **PC** | Va bene anche senza scheda video. / Fine without a graphics card too. | Consigliata scheda video da **8 GB** (Migliore: **12 GB**). Senza, la voce è lenta: circa un minuto. / **8 GB** graphics card recommended (Best: **12 GB**). Without one the voice is slow: about a minute. |
 
 **Poco spazio o un PC semplice? Scegli «Solo testo» e «Leggera»: la voce si può aggiungere dopo.**
@@ -48,7 +48,7 @@ Basta un clic sulla stella ⭐ in alto a destra di questa pagina: aiuta altre pe
 ### Cosa serve / What you need
 
 - Windows 10 o 11 a 64 bit. / 64-bit Windows 10 or 11.
-- Da 3 a 10 GB liberi per i modelli, scaricati una volta sola al primo avvio. / 3 to 10 GB free for the models, downloaded once on first start.
+- Da 3 a 11 GB liberi per i modelli, scaricati una volta sola al primo avvio. / 3 to 11 GB free for the models, downloaded once on first start.
 - Consigliata una scheda video NVIDIA, AMD o Intel con almeno 8 GB. Senza va lo stesso: il testo in pochi secondi, la voce in circa un minuto. / A NVIDIA, AMD or Intel graphics card with at least 8 GB is recommended. It works without one too: text in a few seconds, voice in about a minute.
 - Provato su NVIDIA RTX 5070 Ti e RTX 3060 e sul solo processore; non ancora su schede AMD e Intel. / Tested on NVIDIA RTX 5070 Ti and RTX 3060 and on the processor alone; not yet on AMD and Intel cards.
 
@@ -94,4 +94,4 @@ If you find it useful you can support it: https://buymeacoffee.com/tures1955
 
 ---
 
-<sub>Fatto con / Made with: [audio.cpp](https://github.com/0xShug0/audio.cpp), [llama.cpp](https://github.com/ggml-org/llama.cpp), Qwen3-ASR, Qwen3-TTS, Hy-MT2, Electron. Le licenze sono accanto al programma, in LICENZE_TERZI.txt. / The licenses are next to the program, in LICENZE_TERZI.txt.</sub>
+<sub>Fatto con / Made with: [audio.cpp](https://github.com/0xShug0/audio.cpp), [llama.cpp](https://github.com/ggml-org/llama.cpp), Qwen3-ASR, Qwen3-TTS, Hy-MT3, Hy-MT2, Electron. Le licenze sono accanto al programma, in LICENZE_TERZI.txt. / The licenses are next to the program, in LICENZE_TERZI.txt.</sub>

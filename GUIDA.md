@@ -37,7 +37,7 @@ Tutto avviene sul tuo PC: nessun messaggio viene mandato su internet.
 
 ## La prima volta
 
-ATTENZIONE allo spazio: il programma scarica i suoi modelli una volta sola. Solo testo: 3,2 GB (Leggera) o 7,2 GB (Migliore). Testo e voce: 5,2 GB (Leggera) o 9,9 GB (Migliore).
+ATTENZIONE allo spazio: il programma scarica i suoi modelli una volta sola. Solo testo: 3,2 GB (Leggera) o 7,7 GB (Migliore). Testo e voce: 5,2 GB (Leggera) o 10,4 GB (Migliore).
 
 Scegli tra Solo testo e Testo e voce, poi la qualità (il programma ti dice quale va meglio per il tuo PC) e la cartella dove mettere i modelli. Poi premi Scarica: se lo fermi o cade internet, riprende da dove era.
 
@@ -153,6 +153,6 @@ Il programma si aggiorna da solo: scarica la versione nuova e la installa alla c
 
 ## Con cosa è fatto
 
-Ascolto: Qwen3-ASR. Voce: Qwen3-TTS. Traduzione: Hy-MT2 di Tencent (tutti con licenza Apache 2.0). Motori: audio.cpp (Apache 2.0) e llama.cpp (MIT). Finestre: Electron (MIT). Audio mp3: lamejs (LGPL 3.0). Appunti: koffi (MIT).
+Ascolto: Qwen3-ASR. Voce: Qwen3-TTS. Traduzione: Hy-MT3 e Hy-MT2 di Tencent (tutti con licenza Apache 2.0). Motori: audio.cpp (Apache 2.0) e llama.cpp (MIT). Finestre: Electron (MIT). Audio mp3: lamejs (LGPL 3.0). Appunti: koffi (MIT).
 
 I testi delle licenze sono nel file LICENZE_TERZI.txt accanto al programma.

@@ -37,7 +37,7 @@ Everything happens on your PC: no message is sent over the internet.
 
 ## The first time
 
-WARNING about space: the program downloads its models once. Text only: 3.2 GB (light) or 7.2 GB (best). Text and voice: 5.2 GB (light) or 9.9 GB (best).
+WARNING about space: the program downloads its models once. Text only: 3.2 GB (light) or 7.7 GB (best). Text and voice: 5.2 GB (light) or 10.4 GB (best).
 
 Choose between Text only and Text and voice, then the quality (the program tells you which suits your PC best) and the folder for the models. Then press Download: if you stop it or the connection drops, it resumes where it was.
 
@@ -153,6 +153,6 @@ The program updates itself: it downloads the new version and installs it when yo
 
 ## What it is made with
 
-Listening: Qwen3-ASR. Voice: Qwen3-TTS. Translation: Hy-MT2 by Tencent (all under the Apache 2.0 license). Engines: audio.cpp (Apache 2.0) and llama.cpp (MIT). Windows: Electron (MIT). Mp3 audio: lamejs (LGPL 3.0). Clipboard: koffi (MIT).
+Listening: Qwen3-ASR. Voice: Qwen3-TTS. Translation: Hy-MT3 and Hy-MT2 by Tencent (all under the Apache 2.0 license). Engines: audio.cpp (Apache 2.0) and llama.cpp (MIT). Windows: Electron (MIT). Mp3 audio: lamejs (LGPL 3.0). Clipboard: koffi (MIT).
 
 The license texts are in the file LICENZE_TERZI.txt next to the program.
